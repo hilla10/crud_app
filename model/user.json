@@ -1,0 +1,11 @@
+[
+  {
+    "username": "John1",
+    "password": "$2b$10$bhPT4M64BsGfmzHGqP6uQOwJKmdKcLekqQD7YAZsi9A.9o0o0rDsm"
+  },
+  {
+    "username": "John",
+    "password": "$2b$10$l3l5TCxWx13KzXVv8ETtnOKhV5tNx6V/ucHkF12LreWZaw7dKTVxa",
+    "refreshToken": ""
+  }
+]
